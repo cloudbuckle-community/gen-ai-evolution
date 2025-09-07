@@ -1,0 +1,13 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.13.3, pytest-8.4.2, pluggy-1.6.0 -- /Users/rameshnori/Documents/cloudbuckle/projects/medium/gen-ai-evolution/.venv/bin/python3.13
+cachedir: .pytest_cache
+rootdir: /Users/rameshnori/Documents/cloudbuckle/projects/medium/gen-ai-evolution
+plugins: asyncio-1.1.0
+asyncio: mode=Mode.STRICT, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collecting ... collected 3 items
+
+tests/test_phase1_llm.py::TestPhase1BedrockLLM::test_bedrock_llm_client_basic_invocation PASSED
+tests/test_phase1_llm.py::TestPhase1BedrockLLM::test_bedrock_usage_tracking PASSED
+tests/test_phase1_llm.py::TestPhase1BedrockLLM::test_workflow_engine_with_bedrock PASSED
+
+============================== 3 passed in 12.92s ==============================
