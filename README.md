@@ -321,7 +321,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Acknowledgments
 
-- Built for the [Medium article series](YOUR_MEDIUM_ARTICLE_LINK) on AI system architecture evolution
+- Built for the [Medium article series](https://blog.cloudbuckle.com/the-evolution-of-gen-ai-systems-from-simple-llms-to-agentic-ai-d45b6ec46aef) on AI system architecture evolution
 - Utilizes Amazon Bedrock's managed AI infrastructure
 - Demonstrates production-ready patterns for enterprise AI applications
 
@@ -330,7 +330,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 - 📖 **Documentation**: Comprehensive guides in the source code docstrings
 - 🐛 **Issues**: Report bugs via GitHub Issues
 - 💬 **Discussions**: Join our GitHub Discussions for questions and ideas
-- 📧 **Contact**: [your-email@domain.com]
+- 📧 **Contact**: [contact@cloudbuckle.com]
 
 ## Citation
 
@@ -342,7 +342,7 @@ If you use this framework in your research or projects, please cite:
   author={Your Name},
   year={2024},
   publisher={GitHub},
-  howpublished={\url{https://github.com/yourusername/gen-ai-evolution}}
+  howpublished={\url{https://github.com/cloudbuckle-community/gen-ai-evolution}}
 }
 ```
 
