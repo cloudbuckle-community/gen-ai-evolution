@@ -10,6 +10,8 @@ A comprehensive implementation demonstrating the architectural evolution of AI s
 
 ## Overview
 
+Built for the [Medium article series](https://blog.cloudbuckle.com/the-evolution-of-gen-ai-systems-from-simple-llms-to-agentic-ai-d45b6ec46aef) on AI system architecture evolution
+
 This framework demonstrates the complete evolution of AI system architectures through four distinct phases, each building upon the previous to solve increasingly complex challenges. Built with production-ready code using Amazon Bedrock, Claude 3.5, and Titan embeddings.
 
 ### Architecture Evolution
@@ -339,8 +341,8 @@ If you use this framework in your research or projects, please cite:
 ```bibtex
 @misc{gen-ai-evolution,
   title={AI Evolution Framework: From Basic LLMs to Multi-Agent Systems},
-  author={Your Name},
-  year={2024},
+  author={Ramesh Nori},
+  year={2025},
   publisher={GitHub},
   howpublished={\url{https://github.com/cloudbuckle-community/gen-ai-evolution}}
 }
